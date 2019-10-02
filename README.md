@@ -1,14 +1,13 @@
 # Machine_Learning
-Machine learning algorithms implemented in python.
+Machine learning algorithms implemented in python 3.
 
 ### Algorithms
-
 
 * [Linear Regression](Algorithms/Linear_Regression/)
 * [K Means Clustering](Algorithms/k_means_clustering/)
 * [Logistic Regression - DIGIT CLASSIFICATION](Algorithms/Logistic_Regression/)
 
-### Jupyter Notebook work
+### Jupyter Notebooks
 
 * [Linear Regression](JupyterNotebook/)
 * [K Means Clustering](JupyterNotebook/)
